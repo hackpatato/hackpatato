@@ -7,7 +7,6 @@
 
 - 🌱 I'm currently learning **C Lang and Windows İternals**
 
-- 👨‍💻 My bio are available at **[https://guns.lol/hackpatato](https://guns.lol/hackpatato)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
