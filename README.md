@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/hackpatato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hackpatato" height="30" width="40" /></a>
+<a href="https://hackpatato.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  height="30" width="40" /></a>
 <a href="https://guns.lol/hackpatato" target="blank"><img align="center" src="https://assets.guns.lol/guns_logo_no_background_cropped.png" alt="hackpatato" height="30" width="40" /></a>
 </p>
 
