@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **C Lang and Windows İternals**
 
-- 👨‍💻 All of my projects are available at **[https://guns.lol/hackpatato](https://guns.lol/hackpatato)**
+- 👨‍💻  my bio are available at **[https://guns.lol/hackpatato](https://guns.lol/hackpatato)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,8 +16,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackpatato&show_icons=true&locale=en&layout=compact" alt="hackpatato" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackpatato&show_icons=true&locale=en" alt="hackpatato" /></p>
 
