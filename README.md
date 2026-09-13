@@ -1,4 +1,4 @@
-# Hi 👋, I'm hackpatato
+# Hi , I'm hackpatato
 
 
 ### A Cybersecurity Student
