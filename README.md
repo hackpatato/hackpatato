@@ -13,7 +13,7 @@
 <a href="https://hackpatato.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  height="30" width="40" /></a>
 <a href="https://guns.lol/hackpatato" target="blank"><img align="center" src="https://assets.guns.lol/guns_logo_no_background_cropped.png" alt="hackpatato" height="30" width="40" /></a>
 <a href="https://kreosus.com/hackpatato/about" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FC4E1BAQG498C06EJIJA%2Fcompany-background_10000%2Fcompany-background_10000%2F0%2F1585348873473%2Fkreosus_cover%3Fe%3D2147483647%26v%3Dbeta%26t%3De7BBVThRyo9qwj-exbLGLgqokgyQcQQ4TY-JD2vTXtc&f=1&nofb=1&ipt=0768c4ccbf8be6c3b1a86942335d06aca52463956dca4d81758abfa8dc944e05" alt="hackpatato" height="30" width="150" /></a>
-<a href="https://hackpatato.gitbook.io/hackpatato-docs" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0673%2F6681%2F3867%2Ffiles%2F252_image.png%3Fv%3D1734775171&f=1&nofb=1&ipt=b110c8825f867f2ea816bc9c7c5921a5a4f999bf111d4ddfb00cb3d8599a4e4b" alt="hackpatato" height="30" width="150" /></a>
+<a href="https://hackpatato.gitbook.io/hackpatato-docs" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0673%2F6681%2F3867%2Ffiles%2F252_image.png%3Fv%3D1734775171&f=1&nofb=1&ipt=b110c8825f867f2ea816bc9c7c5921a5a4f999bf111d4ddfb00cb3d8599a4e4b" alt="hackpatato" height="50" width="150" /></a>
 
 
 </p>
