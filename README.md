@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **maldev-notes-and-pocs**
 
-- 🌱 I'm currently learning **C Lang and Windows İternals**
+- 🌱 I'm currently learning **C/CPP Lang and Windows İternals**
 
 
 <h3 align="left">Connect with me:</h3>
