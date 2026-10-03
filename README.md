@@ -3,9 +3,9 @@
 
 ### A Cybersecurity Student
 
-- 🔭 I'm currently working on **maldev-notes-and-pocs**
+- 🔭 I'm currently working on **maldev-notes-and-pocs** , **Crow-Client**
 
-- 🌱 I'm currently learning **C/CPP Lang and Windows İternals**
+- 🌱 I'm currently learning *fabric and java*
 
 
 <h3 align="left">Connect with me:</h3>
