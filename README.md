@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **maldev-notes-and-pocs** , **Crow-Client**
 
-- 🌱 I'm currently learning *fabric and java*
+- 🌱 I'm currently learning *SECRET*
 
 
 <h3 align="left">Connect with me:</h3>
