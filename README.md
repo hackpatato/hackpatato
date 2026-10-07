@@ -3,9 +3,9 @@
 
 ### A Cybersecurity Student
 
-- 🔭 I'm currently working on **maldev-notes-and-pocs** , **Vortex Think**
+- 🔭 I'm currently working on **Vortex Think**
 
-- 🌱 I'm currently learning *SECRET*
+- 🌱 I'm currently learning *Go lang*
 
 
 <h3 align="left">Connect with me:</h3>
