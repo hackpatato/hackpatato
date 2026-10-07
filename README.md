@@ -3,7 +3,7 @@
 
 ### A Cybersecurity Student
 
-- 🔭 I'm currently working on **Vortex Think**
+- 🔭 I'm currently working on **learning-golang**
 
 - 🌱 I'm currently learning *Go lang*
 
