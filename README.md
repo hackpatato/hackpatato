@@ -24,5 +24,7 @@
 <a href="https://vscodium.com/img/codium_cnl.svg" target="blank"><img align="center" src="https://vscodium.com/img/codium_cnl.svg" height="40" width="40" /></a>
 <a href="https://duckduckgo.com/i/6c0fa392c6623924.png" target="blank"><img align="center" src="https://duckduckgo.com/i/6c0fa392c6623924.png" height="40" width="40" /></a>
 
-"YEAH I HAVE SOME MENTAL İSSUE'S"
+
+
+### "YEAH I HAVE SOME MENTAL İSSUE'S"
 - hackpatato
