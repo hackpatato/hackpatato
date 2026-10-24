@@ -3,9 +3,9 @@
 
 ### A Cybersecurity Student
 
-- 🔭 I'm currently working on **learning-golang**
+- 🔭 I'm currently working on **idk?**
 
-- 🌱 I'm currently learning *Go lang*
+- 🌱 I'm currently learning .... idk?
 
 
 <h3 align="left">Connect with me:</h3>
